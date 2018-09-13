@@ -2,19 +2,14 @@
 <html>
 
 <head>
-  <title>Our Company</title>
+  <title>Johanna Hamrick</title>
 </head>
 
 <body>
 
-  <h1>Welcome to Our Company</h1>
-  <h2>Web Site Main Ingredients:</h2>
-  <a href="JohannaHamrick/github.io/Second_Page">This is a link</a>
-
-  <p>Pages (HTML)</p>
-  <p>Style Sheets (CSS)</p>
-  <p>Computer Code (JavaScript)</p>
-  <p>Live Data (Files and Databases)</p>
+  <h1>Welcome to My Projects Page</h1>
+  <h2>HTML, CSS, JavaScript Homework</h2>
+  
 
 </body>
 </html>
